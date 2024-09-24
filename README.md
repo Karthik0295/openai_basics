@@ -5,7 +5,7 @@ This project is a chat application built using FastAPI and SQLAlchemy, which int
 
 ## Features
 
-- **User Management**: Create user based on thread
+- **User Management**: Creating user(a basic one with minimal features)
 - **Chat Threads**: Users can create chat threads to maintain conversation history.
 - **Messaging**: Send messages within chat threads and receive AI-generated responses.
 - **File Uploads**: Upload documents (only PDF) for summarization.
